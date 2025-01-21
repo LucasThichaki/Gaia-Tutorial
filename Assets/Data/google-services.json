@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "95441902989",
+    "project_id": "overlord---quest-plataforma",
+    "storage_bucket": "overlord---quest-plataforma.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95441902989:android:10ec172b3520755e6ab1c4",
+        "android_client_info": {
+          "package_name": "com.GR_ICMC.Overlord"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdYdlMf3sY45pL8blj6DOMFM_Euw6Fb1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
